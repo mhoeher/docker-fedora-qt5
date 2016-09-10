@@ -3,4 +3,4 @@ help:
 	@echo "    build   - build Docker image"
 
 build:
-	docker build --pull -t opentodolist/fedora .
+	docker build --pull -t rpdev/fedora-qt5 .
